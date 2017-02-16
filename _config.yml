@@ -3,6 +3,6 @@ theme: minima
 title: Bread Board Apps
 email: email@Breadboardapps.com
 description: > # this means to ignore newlines until "baseurl:"
- Copyright © BreadBoardApps 2017
+ Copyright © Bread Board Apps 2017
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://BreadBoardApps.com" # the base hostname & protocol for your site
