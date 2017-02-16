@@ -1,7 +1,9 @@
---- 
-layout: page 
+---
+layout: page
+title: Index
 ---
 
-<h1>BreadBoard Apps</h1>
+
+# BreadBoard Apps
 
 <p>We build apps for Windows 10, iOS, and Android</p>
