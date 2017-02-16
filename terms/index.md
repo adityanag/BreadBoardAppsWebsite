@@ -3,7 +3,6 @@ layout: page
 title: Terms of Service
 ---
 
-## Services Agreement 
 *Last Updated: February 2017*
 
 These terms (“Terms”) cover the use of the websites and services (the “Services”) from Bread Board Apps.
