@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-Last Updated: February 2017
+*Last Updated: February 2017*
 
 This privacy statement applies to the website, services and applications (the &#8220;Services&#8221;) from Book Board Apps that collect data and display these terms.
 
