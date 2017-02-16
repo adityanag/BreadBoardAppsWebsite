@@ -20,6 +20,7 @@ github_username:  ""
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme: minima
 
 paginate: 10
 paginate_path: "/journal/page:num/"
