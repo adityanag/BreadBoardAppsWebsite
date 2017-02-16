@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Index
+title: Bread Board Apps
 ---
-
-
-# BreadBoard Apps
 
 <p>We build apps for Windows 10, iOS, and Android</p>
