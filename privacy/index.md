@@ -46,4 +46,4 @@ Microsoft Online<br />
 <a href="http://privacy.microsoft.com">http://privacy.microsoft.com</a>
 
 ## How to Contact
-Please email us <a href="mailto:email@bookbaordapps.com">email@bookboardapps.com</a>
+Please email us <a href="mailto:email@breadboardapps.com">email@breadboardapps.com</a>
